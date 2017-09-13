@@ -104,3 +104,4 @@ Naming/coding conventions:
     Other conventions: Top-level functions are wfFuncname(), names of session
     variables are wsName, cookies wcName, and form field values wpName ("p" for
     "POST").
+    
